@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/a-was/node-sqlite3#readme",
   "dependencies": {
-    "sqlite3": "^4.2.0"
+    "sqlite3": "^5.1.7"
   }
 }
